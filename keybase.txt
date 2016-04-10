@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/dmartyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dmartyn.me
+  * I am dmartyn (https://keybase.io/dmartyn) on keybase.
+  * I have a public key ASCy_2Lu_6AP6erdGIWG4J_0PJhfnqQvDy4HpisCRFF6owo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b2ff62eeffa00fe9eadd188586e09ff43c985f9ea42f0f2e07a62b0244517aa30a",
+            "host": "keybase.io",
+            "kid": "0120b2ff62eeffa00fe9eadd188586e09ff43c985f9ea42f0f2e07a62b0244517aa30a",
+            "uid": "2bf0894398d4c941395bfce033e1ef19",
+            "username": "dmartyn"
+        },
+        "service": {
+            "hostname": "dmartyn.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1460261640,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460261623,
+        "hash": "bd75eecc52691a802398afea2a31944fd9f19bd6a6f6b1c09d4fe2998ae1c8243c09d3ac2a23e698c1472d1cc4f75d4e36582aee5f41e902f84c7504980d763e",
+        "seqno": 437146
+    },
+    "prev": "1d1494e68d4f6281dc0c9a934c7db0001741fbe97da3214a96801fe25be4f10d",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsv9i7v+gD+nq3RiFhuCf9DyYX56kLw8uB6YrAkRReqMKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjJmZjYyZWVmZmEwMGZlOWVhZGQxODg1ODZlMDlmZjQzYzk4NWY5ZWE0MmYwZjJlMDdhNjJiMDI0NDUxN2FhMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjJmZjYyZWVmZmEwMGZlOWVhZGQxODg1ODZlMDlmZjQzYzk4NWY5ZWE0MmYwZjJlMDdhNjJiMDI0NDUxN2FhMzBhIiwidWlkIjoiMmJmMDg5NDM5OGQ0Yzk0MTM5NWJmY2UwMzNlMWVmMTkiLCJ1c2VybmFtZSI6ImRtYXJ0eW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRtYXJ0eW4ubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNSJ9LCJjdGltZSI6MTQ2MDI2MTY0MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYwMjYxNjIzLCJoYXNoIjoiYmQ3NWVlY2M1MjY5MWE4MDIzOThhZmVhMmEzMTk0NGZkOWYxOWJkNmE2ZjZiMWMwOWQ0ZmUyOTk4YWUxYzgyNDNjMDlkM2FjMmEyM2U2OThjMTQ3MmQxY2M0Zjc1ZDRlMzY1ODJhZWU1ZjQxZTkwMmY4NGM3NTA0OTgwZDc2M2UiLCJzZXFubyI6NDM3MTQ2fSwicHJldiI6IjFkMTQ5NGU2OGQ0ZjYyODFkYzBjOWE5MzRjN2RiMDAwMTc0MWZiZTk3ZGEzMjE0YTk2ODAxZmUyNWJlNGYxMGQiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDFsb0kfFDJU9rg2qpnFc8YQsbt3UlxhpOG4fUY5fgFRJqlKsn58MQXC1JJiM8ww0Ck3fjmV+H5czVu1XQjk8IDqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dmartyn
+
+==================================================================
